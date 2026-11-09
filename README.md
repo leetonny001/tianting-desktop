@@ -1,6 +1,6 @@
 # tianting-desktop
 
-天听 PC 客户端（Tauri 壳）。**天听**是自研的微信式 IM 产品。
+天听 PC 客户端（Tauri 壳）。**天听**是自研的独立 IM 产品。
 
 天听的 PC 客户端：用 Tauri 2 包装 tianting-web 的界面，桌面宽屏三栏布局。
 
